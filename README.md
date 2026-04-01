@@ -12,13 +12,23 @@ A lightweight and easy-to-use batch renaming tool for Windows, featuring multipl
 
 ## 📸 截图 / Screenshot
 
+![程序界面](Pic/Pic_1.png)
+*主界面 1 / Main window 1*
 
+![程序界面](Pic/Pic_2.png)
+*主界面 2 / Main window 2*
+
+![程序界面](Pic/Pic_3.png)
+*主界面 3 / Main window 3*
+
+![程序界面](Pic/Pic_4.png)
+*语言选择 / Language Selection*
 
 ---
 
 ## ✨ 功能特点 / Features
 
-### 中文
+### 中文简介
 - **三种重命名模式**：替换文本、添加文本、格式化（序号 + 日期）
 - **实时预览**：输入规则后立即显示新文件名
 - **文件列表管理**：支持拖拽添加文件/文件夹、拖拽勾选、分组排序
@@ -29,7 +39,7 @@ A lightweight and easy-to-use batch renaming tool for Windows, featuring multipl
 - **文件占用检测**：重命名时如果文件被占用会给出明确提示
 - **合法文件名检测**：自动检测并提示非法字符
 
-### English
+### English Introduction
 - **Three renaming modes**: Replace Text, Add Text, Format (sequence + date)
 - **Live preview**: New file names are displayed instantly as you type
 - **File list management**: Drag and drop to add files/folders, drag to toggle selection, group sorting
